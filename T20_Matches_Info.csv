@@ -1,0 +1,249 @@
+,city,event,stage,dates,match_type,match_type_number,player_of_match,winner,winner_by,overs,season,team_type,team1,team2,toss_winner,toss_decision,venue
+0,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+1,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+2,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+3,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+4,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+5,,Pakistan v West Indies T20I Series,,2016-09-23,T20,568,Imad Wasim,Pakistan,{'wickets': 9},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium
+6,,Pakistan v West Indies T20I Series,,2016-09-24,T20,569,Sarfraz Ahmed,Pakistan,{'runs': 16},20,2016/17,international,Pakistan,West Indies,West Indies,field,Dubai International Cricket Stadium
+7,Abu Dhabi,Pakistan v West Indies T20I Series,,2016-09-27,T20,570,Imad Wasim,Pakistan,{'wickets': 8},20,2016/17,international,Pakistan,West Indies,Pakistan,field,Sheikh Zayed Stadium
+8,Barbados,Pakistan in West Indies T20I Series,,2017-03-26,T20,602,Shadab Khan,Pakistan,{'wickets': 6},20,2017,international,West Indies,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown"
+9,Trinidad,Pakistan in West Indies T20I Series,,2017-03-30,T20,603,Shadab Khan,Pakistan,{'runs': 3},20,2017,international,West Indies,Pakistan,West Indies,field,"Queen's Park Oval, Port of Spain"
+10,Trinidad,Pakistan in West Indies T20I Series,,2017-04-01,T20,604,E Lewis,West Indies,{'wickets': 7},20,2017,international,West Indies,Pakistan,Pakistan,bat,"Queen's Park Oval, Port of Spain"
+11,Trinidad,Pakistan in West Indies T20I Series,,2017-04-02,T20,605,Hasan Ali,Pakistan,{'wickets': 7},20,2017,international,West Indies,Pakistan,Pakistan,field,"Queen's Park Oval, Port of Spain"
+12,Wellington,Pakistan tour of New Zealand,,2018-01-22,T20,639,C Munro,New Zealand,{'wickets': 7},20,2017/18,international,Pakistan,New Zealand,New Zealand,field,Westpac Stadium
+13,Auckland,Pakistan tour of New Zealand,,2018-01-25,T20,640,Fakhar Zaman,Pakistan,{'runs': 48},20,2017/18,international,Pakistan,New Zealand,Pakistan,bat,Eden Park
+14,Mount Maunganui,Pakistan tour of New Zealand,,2018-01-28,T20,641,Shadab Khan,Pakistan,{'runs': 18},20,2017/18,international,Pakistan,New Zealand,Pakistan,bat,Bay Oval
+15,Lahore,Independence Cup,,2017-09-12,T20,619,Babar Azam,Pakistan,{'runs': 20},20,2017/18,international,Pakistan,ICC World XI,ICC World XI,field,Gaddafi Stadium
+16,Lahore,Independence Cup,,2017-09-13,T20,620,NLTC Perera,ICC World XI,{'wickets': 7},20,2017/18,international,Pakistan,ICC World XI,Pakistan,bat,Gaddafi Stadium
+17,Lahore,Independence Cup,,2017-09-15,T20,621,Ahmed Shehzad,Pakistan,{'runs': 33},20,2017/18,international,Pakistan,ICC World XI,ICC World XI,field,Gaddafi Stadium
+18,Abu Dhabi,Sri Lanka tour of United Arab Emirates and Pakistan,,2017-10-26,T20,625,Usman Shinwari,Pakistan,{'wickets': 7},20,2017/18,international,Sri Lanka,Pakistan,Pakistan,field,Sheikh Zayed Stadium
+19,Abu Dhabi,Sri Lanka tour of United Arab Emirates and Pakistan,,2017-10-27,T20,627,Shadab Khan,Pakistan,{'wickets': 2},20,2017/18,international,Sri Lanka,Pakistan,Pakistan,field,Sheikh Zayed Stadium
+20,Lahore,Sri Lanka tour of United Arab Emirates and Pakistan,,2017-10-29,T20,629,Shoaib Malik,Pakistan,{'runs': 36},20,2017/18,international,Pakistan,Sri Lanka,Sri Lanka,field,Gaddafi Stadium
+21,Edinburgh,"Pakistan tour of Ireland, England and Scotland",,2018-06-12,T20,671,Sarfraz Ahmed,Pakistan,{'runs': 48},20,2018,international,Pakistan,Scotland,Pakistan,bat,"Grange Cricket Club, Raeburn Place"
+22,Edinburgh,"Pakistan tour of Ireland, England and Scotland",,2018-06-13,T20,673,Usman Shinwari,Pakistan,{'runs': 84},20,2018,international,Pakistan,Scotland,Pakistan,bat,"Grange Cricket Club, Raeburn Place"
+23,Karachi,West Indies tour of Pakistan,,2018-04-01,T20,663,Hussain Talat,Pakistan,{'runs': 143},20,2018,international,Pakistan,West Indies,West Indies,field,National Stadium
+24,Karachi,West Indies tour of Pakistan,,2018-04-02,T20,664,Babar Azam,Pakistan,{'runs': 82},20,2018,international,Pakistan,West Indies,Pakistan,bat,National Stadium
+25,Karachi,West Indies tour of Pakistan,,2018-04-03,T20,665,Fakhar Zaman,Pakistan,{'wickets': 8},20,2018,international,West Indies,Pakistan,West Indies,bat,National Stadium
+26,,Zimbabwe Twenty20 Tri-Series,,2018-07-01,T20,681,Asif Ali,Pakistan,{'runs': 74},20,2018,international,Pakistan,Zimbabwe,Zimbabwe,field,Harare Sports Club
+27,,Zimbabwe Twenty20 Tri-Series,,2018-07-02,T20,682,B Stanlake,Australia,{'wickets': 9},20,2018,international,Pakistan,Australia,Australia,field,Harare Sports Club
+28,,Zimbabwe Twenty20 Tri-Series,,2018-07-04,T20,685,SF Mire,Pakistan,{'wickets': 7},20,2018,international,Zimbabwe,Pakistan,Pakistan,field,Harare Sports Club
+29,,Zimbabwe Twenty20 Tri-Series,,2018-07-05,T20,686,Fakhar Zaman,Pakistan,{'runs': 45},20,2018,international,Pakistan,Australia,Australia,field,Harare Sports Club
+30,,Zimbabwe Twenty20 Tri-Series,Final,2018-07-08,T20,689,Fakhar Zaman,Pakistan,{'wickets': 6},20,2018,international,Australia,Pakistan,Australia,bat,Harare Sports Club
+31,Cape Town,Pakistan tour of South Africa,,2019-02-01,T20,732,DA Miller,South Africa,{'runs': 6},20,2018/19,international,South Africa,Pakistan,Pakistan,field,Newlands
+32,Johannesburg,Pakistan tour of South Africa,,2019-02-03,T20,734,DA Miller,South Africa,{'runs': 7},20,2018/19,international,South Africa,Pakistan,Pakistan,field,The Wanderers Stadium
+33,Centurion,Pakistan tour of South Africa,,2019-02-06,T20,736,Shadab Khan,Pakistan,{'runs': 27},20,2018/19,international,South Africa,Pakistan,South Africa,field,SuperSport Park
+34,Cardiff,Pakistan tour of England,,2019-05-05,T20,772,EJG Morgan,England,{'wickets': 7},20,2019,international,England,Pakistan,Pakistan,bat,Sophia Gardens
+35,Abu Dhabi,Australia tour of United Arab Emirates,,2018-10-24,T20,701,Imad Wasim,Pakistan,{'runs': 66},20,2018/19,international,Pakistan,Australia,Australia,field,Sheikh Zayed Stadium
+36,,Australia tour of United Arab Emirates,,2018-10-26,T20,702,Imad Wasim,Pakistan,{'runs': 11},20,2018/19,international,Pakistan,Australia,Pakistan,bat,Dubai International Cricket Stadium
+37,,Australia tour of United Arab Emirates,,2018-10-28,T20,704,Shadab Khan,Pakistan,{'runs': 33},20,2018/19,international,Pakistan,Australia,Pakistan,bat,Dubai International Cricket Stadium
+38,Abu Dhabi,New Zealand tour of United Arab Emirates,,2018-10-31,T20,705,Mohammad Hafeez,Pakistan,{'runs': 2},20,2018/19,international,Pakistan,New Zealand,Pakistan,bat,Sheikh Zayed Stadium
+39,,New Zealand tour of United Arab Emirates,,2018-11-02,T20,706,Shaheen Shah Afridi,Pakistan,{'wickets': 6},20,2018/19,international,New Zealand,Pakistan,New Zealand,bat,Dubai International Cricket Stadium
+40,,New Zealand tour of United Arab Emirates,,2018-11-04,T20,708,Babar Azam,Pakistan,{'runs': 47},20,2018/19,international,Pakistan,New Zealand,Pakistan,bat,Dubai International Cricket Stadium
+41,Sydney,Pakistan tour of Australia,,2019-11-03,T20,999,No Player,no result,no result,20,2019/20,international,Australia,Pakistan,Australia,field,Sydney Cricket Ground
+42,Canberra,Pakistan tour of Australia,,2019-11-05,T20,1002,SPD Smith,Australia,{'wickets': 7},20,2019/20,international,Australia,Pakistan,Pakistan,bat,Manuka Oval
+43,Perth,Pakistan tour of Australia,,2019-11-08,T20,1009,SA Abbott,Australia,{'wickets': 10},20,2019/20,international,Australia,Pakistan,Australia,field,Perth Stadium
+44,Manchester,Pakistan tour of England,,2020-08-28,T20,1087,No Player,no result,no result,20,2020,international,England,Pakistan,Pakistan,field,Old Trafford
+45,Manchester,Pakistan tour of England,,2020-08-30,T20,1093,EJG Morgan,England,{'wickets': 5},20,2020,international,Pakistan,England,England,field,Old Trafford
+46,Manchester,Pakistan tour of England,,2020-09-01,T20,1094,Mohammad Hafeez,Pakistan,{'runs': 5},20,2020,international,Pakistan,England,England,field,Old Trafford
+47,Lahore,Sri Lanka tour of Pakistan,,2019-10-05,T20,914,MD Gunathilaka,Sri Lanka,{'runs': 64},20,2019/20,international,Pakistan,Sri Lanka,Pakistan,field,Gaddafi Stadium
+48,Lahore,Sri Lanka tour of Pakistan,,2019-10-07,T20,922,PBB Rajapaksa,Sri Lanka,{'runs': 35},20,2019/20,international,Pakistan,Sri Lanka,Sri Lanka,bat,Gaddafi Stadium
+49,Lahore,Sri Lanka tour of Pakistan,,2019-10-09,T20,925,PWH de Silva,Sri Lanka,{'runs': 13},20,2019/20,international,Pakistan,Sri Lanka,Sri Lanka,bat,Gaddafi Stadium
+50,Lahore,Bangladesh tour of Pakistan,,2020-01-24,T20,1032,Shoaib Malik,Pakistan,{'wickets': 5},20,2019/20,international,Pakistan,Bangladesh,Bangladesh,bat,Gaddafi Stadium
+51,Lahore,Bangladesh tour of Pakistan,,2020-01-25,T20,1033,Babar Azam,Pakistan,{'wickets': 9},20,2019/20,international,Pakistan,Bangladesh,Bangladesh,bat,Gaddafi Stadium
+52,,Zimbabwe tour of Pakistan,,2020-11-07,T20,1105,Babar Azam,Pakistan,{'wickets': 6},20,2020/21,international,Zimbabwe,Pakistan,Zimbabwe,bat,Rawalpindi Cricket Stadium
+53,,Zimbabwe tour of Pakistan,,2020-11-08,T20,1106,Haider Ali,Pakistan,{'wickets': 8},20,2020/21,international,Zimbabwe,Pakistan,Pakistan,field,Rawalpindi Cricket Stadium
+54,,Zimbabwe tour of Pakistan,,2020-11-10,T20,1107,Usman Qadir,Pakistan,{'wickets': 8},20,2020/21,international,Zimbabwe,Pakistan,Zimbabwe,bat,Rawalpindi Cricket Stadium
+55,Auckland,Pakistan tour of New Zealand,,2020-12-18,T20,1117,JA Duffy,New Zealand,{'wickets': 5},20,2020/21,international,Pakistan,New Zealand,Pakistan,bat,Eden Park
+56,Hamilton,Pakistan tour of New Zealand,,2020-12-20,T20,1118,TG Southee,New Zealand,{'wickets': 9},20,2020/21,international,Pakistan,New Zealand,Pakistan,bat,Seddon Park
+57,Napier,Pakistan tour of New Zealand,,2020-12-22,T20,1119,Mohammad Rizwan,Pakistan,{'wickets': 4},20,2020/21,international,New Zealand,Pakistan,Pakistan,field,McLean Park
+58,Nottingham,Pakistan tour of England,,2021-07-16,T20,1191,Shaheen Shah Afridi,Pakistan,{'runs': 31},20,2021,international,Pakistan,England,England,field,"Trent Bridge, Nottingham"
+59,Leeds,Pakistan tour of England,,2021-07-18,T20,1193,MM Ali,England,{'runs': 45},20,2021,international,England,Pakistan,Pakistan,field,"Headingley, Leeds"
+60,Manchester,Pakistan tour of England,,2021-07-20,T20,1195,JJ Roy,England,{'wickets': 3},20,2021,international,Pakistan,England,Pakistan,bat,"Old Trafford, Manchester"
+61,Lahore,South Africa tour of Pakistan,,2021-02-11,T20,1120,Mohammad Rizwan,Pakistan,{'runs': 3},20,2020/21,international,Pakistan,South Africa,South Africa,field,Gaddafi Stadium
+62,Lahore,South Africa tour of Pakistan,,2021-02-13,T20,1121,D Pretorius,South Africa,{'wickets': 6},20,2020/21,international,Pakistan,South Africa,South Africa,field,Gaddafi Stadium
+63,Lahore,South Africa tour of Pakistan,,2021-02-14,T20,1122,Mohammad Nawaz (3),Pakistan,{'wickets': 4},20,2020/21,international,South Africa,Pakistan,Pakistan,field,Gaddafi Stadium
+64,Johannesburg,Pakistan tour of South Africa,,2021-04-10,T20,1145,Mohammad Rizwan,Pakistan,{'wickets': 4},20,2021,international,South Africa,Pakistan,South Africa,bat,"The Wanderers Stadium, Johannesburg"
+65,Johannesburg,Pakistan tour of South Africa,,2021-04-12,T20,1146,GF Linde,South Africa,{'wickets': 6},20,2021,international,Pakistan,South Africa,Pakistan,bat,"The Wanderers Stadium, Johannesburg"
+66,Centurion,Pakistan tour of South Africa,,2021-04-14,T20,1147,Babar Azam,Pakistan,{'wickets': 9},20,2021,international,South Africa,Pakistan,Pakistan,field,"SuperSport Park, Centurion"
+67,Centurion,Pakistan tour of South Africa,,2021-04-16,T20,1148,Faheem Ashraf,Pakistan,{'wickets': 3},20,2021,international,South Africa,Pakistan,Pakistan,field,"SuperSport Park, Centurion"
+68,Harare,Pakistan tour of Zimbabwe,,2021-04-21,T20,1154,Mohammad Rizwan,Pakistan,{'runs': 11},20,2021,international,Pakistan,Zimbabwe,Zimbabwe,field,Harare Sports Club
+69,Harare,Pakistan tour of Zimbabwe,,2021-04-23,T20,1156,LM Jongwe,Zimbabwe,{'runs': 19},20,2021,international,Zimbabwe,Pakistan,Pakistan,field,Harare Sports Club
+70,Harare,Pakistan tour of Zimbabwe,,2021-04-25,T20,1158,Hasan Ali,Pakistan,{'runs': 24},20,2021,international,Pakistan,Zimbabwe,Pakistan,bat,Harare Sports Club
+71,Bridgetown,Pakistan tour of West Indies,,2021-07-28,T20,1205,No Player,no result,no result,20,2021,international,West Indies,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown, Barbados"
+72,Providence,Pakistan tour of West Indies,,2021-07-31,T20,1208,Mohammad Hafeez,Pakistan,{'runs': 7},20,2021,international,Pakistan,West Indies,West Indies,field,"Providence Stadium, Guyana"
+73,Providence,Pakistan tour of West Indies,,2021-08-01,T20,1209,No Player,no result,no result,20,2021,international,West Indies,Pakistan,West Indies,bat,"Providence Stadium, Guyana"
+74,Providence,Pakistan tour of West Indies,,2021-08-03,T20,1211,No Player,no result,no result,20,2021,international,West Indies,Pakistan,Pakistan,field,"Providence Stadium, Guyana"
+75,Dubai,ICC Men's T20 World Cup,,2021-10-24,T20,1361,Shaheen Shah Afridi,Pakistan,{'wickets': 10},20,2021/22,international,India,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+76,Sharjah,ICC Men's T20 World Cup,,2021-10-26,T20,1367,Haris Rauf,Pakistan,{'wickets': 5},20,2021/22,international,New Zealand,Pakistan,Pakistan,field,Sharjah Cricket Stadium
+77,Abu Dhabi,ICC Men's T20 World Cup,,2021-11-02,T20,1386,Mohammad Rizwan,Pakistan,{'runs': 45},20,2021/22,international,Pakistan,Namibia,Pakistan,bat,"Zayed Cricket Stadium, Abu Dhabi"
+78,Sharjah,ICC Men's T20 World Cup,,2021-11-07,T20,1406,Shoaib Malik,Pakistan,{'runs': 72},20,2021/22,international,Pakistan,Scotland,Pakistan,bat,Sharjah Cricket Stadium
+79,Dubai,ICC Men's T20 World Cup,Semi Final,2021-11-11,T20,1420,MS Wade,Australia,{'wickets': 5},20,2021/22,international,Pakistan,Australia,Australia,field,Dubai International Cricket Stadium
+80,Dhaka,Pakistan tour of Bangladesh,,2021-11-19,T20,1439,Hasan Ali,Pakistan,{'wickets': 4},20,2021/22,international,Bangladesh,Pakistan,Bangladesh,bat,"Shere Bangla National Stadium, Mirpur"
+81,Dhaka,Pakistan tour of Bangladesh,,2021-11-20,T20,1443,Fakhar Zaman,Pakistan,{'wickets': 8},20,2021/22,international,Bangladesh,Pakistan,Bangladesh,bat,"Shere Bangla National Stadium, Mirpur"
+82,Dhaka,Pakistan tour of Bangladesh,,2021-11-22,T20,1447,Haider Ali,Pakistan,{'wickets': 5},20,2021/22,international,Bangladesh,Pakistan,Bangladesh,bat,"Shere Bangla National Stadium, Mirpur"
+83,Karachi,West Indies tour of Pakistan,,2021-12-13,T20,1448,Haider Ali,Pakistan,{'runs': 63},20,2021/22,international,Pakistan,West Indies,West Indies,field,"National Stadium, Karachi"
+84,Karachi,West Indies tour of Pakistan,,2021-12-14,T20,1449,Shadab Khan,Pakistan,{'runs': 9},20,2021/22,international,Pakistan,West Indies,Pakistan,bat,"National Stadium, Karachi"
+85,Karachi,West Indies tour of Pakistan,,2021-12-16,T20,1450,Mohammad Rizwan,Pakistan,{'wickets': 7},20,2021/22,international,West Indies,Pakistan,West Indies,bat,"National Stadium, Karachi"
+86,Lahore,Australia tour of Pakistan,,2022-04-05,T20,1504,AJ Finch,Australia,{'wickets': 3},20,2021/22,international,Pakistan,Australia,Australia,field,"Gaddafi Stadium, Lahore"
+87,Melbourne,ICC Men's T20 World Cup,,2022-10-23,T20,1842,V Kohli,India,{'wickets': 4},20,2022/23,international,Pakistan,India,India,field,Melbourne Cricket Ground
+88,Perth,ICC Men's T20 World Cup,,2022-10-27,T20,1849,Sikandar Raza,Zimbabwe,{'runs': 1},20,2022/23,international,Zimbabwe,Pakistan,Zimbabwe,bat,Perth Stadium
+89,Perth,ICC Men's T20 World Cup,,2022-10-30,T20,1852,Shadab Khan,Pakistan,{'wickets': 6},20,2022/23,international,Netherlands,Pakistan,Netherlands,bat,Perth Stadium
+90,Sydney,ICC Men's T20 World Cup,,2022-11-03,T20,1861,Shadab Khan,Pakistan,{'runs': 33},20,2022/23,international,Pakistan,South Africa,Pakistan,bat,Sydney Cricket Ground
+91,Adelaide,ICC Men's T20 World Cup,,2022-11-06,T20,1872,Shaheen Shah Afridi,Pakistan,{'wickets': 5},20,2022/23,international,Bangladesh,Pakistan,Bangladesh,bat,Adelaide Oval
+92,Sydney,ICC Men's T20 World Cup,Semi Final,2022-11-09,T20,1877,Mohammad Rizwan,Pakistan,{'wickets': 7},20,2022/23,international,New Zealand,Pakistan,New Zealand,bat,Sydney Cricket Ground
+93,Melbourne,ICC Men's T20 World Cup,Final,2022-11-13,T20,1879,SM Curran,England,{'wickets': 5},20,2022/23,international,Pakistan,England,England,field,Melbourne Cricket Ground
+94,Christchurch,New Zealand T20I Tri-Series,,2022-10-07,T20,1807,Mohammad Rizwan,Pakistan,{'runs': 21},20,2022/23,international,Pakistan,Bangladesh,Bangladesh,field,"Hagley Oval, Christchurch"
+95,Christchurch,New Zealand T20I Tri-Series,,2022-10-08,T20,1809,Babar Azam,Pakistan,{'wickets': 6},20,2022/23,international,New Zealand,Pakistan,New Zealand,bat,"Hagley Oval, Christchurch"
+96,Christchurch,New Zealand T20I Tri-Series,,2022-10-11,T20,1815,MG Bracewell,New Zealand,{'wickets': 9},20,2022/23,international,Pakistan,New Zealand,Pakistan,bat,"Hagley Oval, Christchurch"
+97,Christchurch,New Zealand T20I Tri-Series,,2022-10-13,T20,1818,Mohammad Rizwan,Pakistan,{'wickets': 7},20,2022/23,international,Bangladesh,Pakistan,Bangladesh,bat,"Hagley Oval, Christchurch"
+98,Christchurch,New Zealand T20I Tri-Series,Final,2022-10-14,T20,1819,Mohammad Nawaz,Pakistan,{'wickets': 5},20,2022/23,international,New Zealand,Pakistan,Pakistan,field,"Hagley Oval, Christchurch"
+99,Karachi,England tour of Pakistan,,2022-09-20,T20,1789,L Wood,England,{'wickets': 6},20,2022,international,Pakistan,England,England,field,"National Stadium, Karachi"
+100,Karachi,England tour of Pakistan,,2022-09-22,T20,1793,Babar Azam,Pakistan,{'wickets': 10},20,2022,international,England,Pakistan,England,bat,"National Stadium, Karachi"
+101,Karachi,England tour of Pakistan,,2022-09-23,T20,1795,HC Brook,England,{'runs': 63},20,2022,international,England,Pakistan,Pakistan,field,"National Stadium, Karachi"
+102,Karachi,England tour of Pakistan,,2022-09-25,T20,1798,Haris Rauf,Pakistan,{'runs': 3},20,2022,international,Pakistan,England,England,field,"National Stadium, Karachi"
+103,Lahore,England tour of Pakistan,,2022-09-28,T20,1801,Mohammad Rizwan,Pakistan,{'runs': 6},20,2022,international,Pakistan,England,England,field,"Gaddafi Stadium, Lahore"
+104,Lahore,England tour of Pakistan,,2022-09-30,T20,1802,PD Salt,England,{'wickets': 8},20,2022,international,Pakistan,England,England,field,"Gaddafi Stadium, Lahore"
+105,Lahore,England tour of Pakistan,,2022-10-02,T20,1804,DJ Malan,England,{'runs': 67},20,2022,international,England,Pakistan,Pakistan,field,"Gaddafi Stadium, Lahore"
+106,Dubai,Asia Cup,,2022-08-28,T20,1750,HH Pandya,India,{'wickets': 5},20,2022,international,Pakistan,India,India,field,Dubai International Cricket Stadium
+107,Sharjah,Asia Cup,,2022-09-02,T20,1756,Mohammad Rizwan,Pakistan,{'runs': 155},20,2022,international,Pakistan,Hong Kong,Hong Kong,field,Sharjah Cricket Stadium
+108,Dubai,Asia Cup,,2022-09-04,T20,1758,Mohammad Nawaz,Pakistan,{'wickets': 5},20,2022,international,India,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+109,Dubai,Asia Cup,,2022-09-09,T20,1764,PWH de Silva,Sri Lanka,{'wickets': 5},20,2022,international,Pakistan,Sri Lanka,Sri Lanka,field,Dubai International Cricket Stadium
+110,Dubai,Asia Cup,Final,2022-09-11,T20,1769,PBB Rajapaksa,Sri Lanka,{'runs': 23},20,2022,international,Sri Lanka,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+111,Lahore,New Zealand tour of Pakistan,,2023-04-14,T20,2045,Haris Rauf,Pakistan,{'runs': 88},20,2023,international,Pakistan,New Zealand,Pakistan,bat,"Gaddafi Stadium, Lahore"
+112,Lahore,New Zealand tour of Pakistan,,2023-04-15,T20,2046,Babar Azam,Pakistan,{'runs': 38},20,2023,international,Pakistan,New Zealand,Pakistan,bat,"Gaddafi Stadium, Lahore"
+113,Lahore,New Zealand tour of Pakistan,,2023-04-17,T20,2047,TWM Latham,New Zealand,{'runs': 4},20,2023,international,New Zealand,Pakistan,New Zealand,bat,"Gaddafi Stadium, Lahore"
+114,Rawalpindi,New Zealand tour of Pakistan,,2023-04-20,T20,2048,No Player,no result,no result,20,2023,international,New Zealand,Pakistan,Pakistan,field,Rawalpindi Cricket Stadium
+115,Rawalpindi,New Zealand tour of Pakistan,,2023-04-24,T20,2049,MS Chapman,New Zealand,{'wickets': 6},20,2023,international,Pakistan,New Zealand,New Zealand,field,Rawalpindi Cricket Stadium
+116,Birmingham,Pakistan tour of England,,2024-05-25,T20,2623,JC Buttler,England,{'runs': 23},20,2024,international,England,Pakistan,Pakistan,field,"Edgbaston, Birmingham"
+117,London,Pakistan tour of England,,2024-05-30,T20,2631,AU Rashid,England,{'wickets': 7},20,2024,international,Pakistan,England,England,field,"Kennington Oval, London"
+118,Auckland,Pakistan tour of New Zealand,,2024-01-12,T20,2429,DJ Mitchell,New Zealand,{'runs': 46},20,2023/24,international,New Zealand,Pakistan,Pakistan,field,"Eden Park, Auckland"
+119,Hamilton,Pakistan tour of New Zealand,,2024-01-14,T20,2430,FH Allen,New Zealand,{'runs': 21},20,2023/24,international,New Zealand,Pakistan,Pakistan,field,"Seddon Park, Hamilton"
+120,Dunedin,Pakistan tour of New Zealand,,2024-01-17,T20,2434,FH Allen,New Zealand,{'runs': 45},20,2023/24,international,New Zealand,Pakistan,Pakistan,field,"University Oval, Dunedin"
+121,Christchurch,Pakistan tour of New Zealand,,2024-01-19,T20,2437,DJ Mitchell,New Zealand,{'wickets': 7},20,2023/24,international,Pakistan,New Zealand,New Zealand,field,"Hagley Oval, Christchurch"
+122,Christchurch,Pakistan tour of New Zealand,,2024-01-21,T20,2438,Iftikhar Ahmed,Pakistan,{'runs': 42},20,2023/24,international,Pakistan,New Zealand,Pakistan,bat,"Hagley Oval, Christchurch"
+123,Hangzhou,Asian Games Men's Cricket Competition,Quarter Final,2023-10-03,T20,2279,No Player,Pakistan,{'runs': 68},20,2023,international,Pakistan,Hong Kong,Hong Kong,field,Zhejiang University of Technology Cricket Field
+124,Hangzhou,Asian Games Men's Cricket Competition,3rd Place Play-Off,2023-10-07,T20,2300,No Player,Bangladesh,{'wickets': 6},20,2023,international,Pakistan,Bangladesh,Bangladesh,field,Zhejiang University of Technology Cricket Field
+125,Dallas,ICC Men's T20 World Cup,,2024-06-06,T20,2642,MD Patel,no result,no result,20,2024,international,Pakistan,United States of America,United States of America,field,"Grand Prairie Stadium, Dallas"
+126,New York,ICC Men's T20 World Cup,,2024-06-09,T20,2658,JJ Bumrah,India,{'runs': 6},20,2024,international,India,Pakistan,Pakistan,field,"Nassau County International Cricket Stadium, New York"
+127,New York,ICC Men's T20 World Cup,,2024-06-11,T20,2665,Mohammad Amir,Pakistan,{'wickets': 7},20,2024,international,Canada,Pakistan,Pakistan,field,"Nassau County International Cricket Stadium, New York"
+128,Lauderhill,ICC Men's T20 World Cup,,2024-06-16,T20,2697,Shaheen Shah Afridi,Pakistan,{'wickets': 3},20,2024,international,Ireland,Pakistan,Pakistan,field,"Central Broward Regional Park Stadium Turf Ground, Lauderhill"
+129,Rawalpindi,New Zealand tour of Pakistan,,2024-04-18,T20,2575,No Player,no result,no result,20,2024,international,New Zealand,Pakistan,New Zealand,bat,Rawalpindi Cricket Stadium
+130,Rawalpindi,New Zealand tour of Pakistan,,2024-04-20,T20,2579,Shaheen Shah Afridi,Pakistan,{'wickets': 7},20,2024,international,New Zealand,Pakistan,Pakistan,field,Rawalpindi Cricket Stadium
+131,Rawalpindi,New Zealand tour of Pakistan,,2024-04-21,T20,2581,MS Chapman,New Zealand,{'wickets': 7},20,2024,international,Pakistan,New Zealand,New Zealand,field,Rawalpindi Cricket Stadium
+132,Lahore,New Zealand tour of Pakistan,,2024-04-25,T20,2582,W O'Rourke,New Zealand,{'runs': 4},20,2024,international,New Zealand,Pakistan,Pakistan,field,"Gaddafi Stadium, Lahore"
+133,Lahore,New Zealand tour of Pakistan,,2024-04-27,T20,2583,Shaheen Shah Afridi,Pakistan,{'runs': 9},20,2024,international,Pakistan,New Zealand,New Zealand,field,"Gaddafi Stadium, Lahore"
+134,Brisbane,Pakistan tour of Australia,,2024-11-14,T20,2948,GJ Maxwell,Australia,{'runs': 29},20,2024/25,international,Australia,Pakistan,Pakistan,field,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+135,Sydney,Pakistan tour of Australia,,2024-11-16,T20,2954,SH Johnson,Australia,{'runs': 13},20,2024/25,international,Australia,Pakistan,Australia,bat,Sydney Cricket Ground
+136,Hobart,Pakistan tour of Australia,,2024-11-18,T20,2959,MP Stoinis,Australia,{'wickets': 7},20,2024/25,international,Pakistan,Australia,Pakistan,bat,"Bellerive Oval, Hobart"
+137,Dublin,Pakistan tour of Ireland,,2024-05-10,T20,2601,A Balbirnie,Ireland,{'wickets': 5},20,2024,international,Pakistan,Ireland,Ireland,field,"Castle Avenue, Dublin"
+138,Dublin,Pakistan tour of Ireland,,2024-05-12,T20,2609,Mohammad Rizwan,Pakistan,{'wickets': 7},20,2024,international,Ireland,Pakistan,Pakistan,field,"Castle Avenue, Dublin"
+139,Dublin,Pakistan tour of Ireland,,2024-05-14,T20,2610,Shaheen Shah Afridi,Pakistan,{'wickets': 6},20,2024,international,Ireland,Pakistan,Pakistan,field,"Castle Avenue, Dublin"
+140,Durban,Pakistan tour of South Africa,,2024-12-10,T20,3026,GF Linde,South Africa,{'runs': 11},20,2024/25,international,South Africa,Pakistan,South Africa,bat,"Kingsmead, Durban"
+141,Centurion,Pakistan tour of South Africa,,2024-12-13,T20,3047,RR Hendricks,South Africa,{'wickets': 7},20,2024/25,international,Pakistan,South Africa,Pakistan,bat,"SuperSport Park, Centurion"
+142,Bulawayo,Pakistan tour of Zimbabwe,,2024-12-01,T20,2997,Tayyab Tahir,Pakistan,{'runs': 57},20,2024/25,international,Pakistan,Zimbabwe,Pakistan,bat,"Queens Sports Club, Bulawayo"
+143,Bulawayo,Pakistan tour of Zimbabwe,,2024-12-03,T20,2999,Sufiyan Muqeem,Pakistan,{'wickets': 10},20,2024/25,international,Zimbabwe,Pakistan,Zimbabwe,bat,"Queens Sports Club, Bulawayo"
+144,Bulawayo,Pakistan tour of Zimbabwe,,2024-12-05,T20,3004,BJ Bennett,Zimbabwe,{'wickets': 2},20,2024/25,international,Pakistan,Zimbabwe,Pakistan,bat,"Queens Sports Club, Bulawayo"
+145,Bristol,,,2006-08-28,T20,8,Shahid Afridi,Pakistan,{'wickets': 5},20,2006,international,England,Pakistan,England,bat,County Ground
+146,Durban,ICC World Twenty20,,2007-09-12,T20,22,Shahid Afridi,Pakistan,{'runs': 51},20,2007/08,international,Pakistan,Scotland,Scotland,field,Kingsmead
+147,Durban,ICC World Twenty20,,2007-09-14,T20,29,Mohammad Asif,no result,no result,20,2007/08,international,India,Pakistan,Pakistan,field,Kingsmead
+148,Johannesburg,ICC World Twenty20,,2007-09-17,T20,35,Younis Khan,Pakistan,{'runs': 33},20,2007/08,international,Pakistan,Sri Lanka,Sri Lanka,field,New Wanderers Stadium
+149,Johannesburg,ICC World Twenty20,,2007-09-18,T20,37,Misbah-ul-Haq,Pakistan,{'wickets': 6},20,2007/08,international,Australia,Pakistan,Pakistan,field,New Wanderers Stadium
+150,Cape Town,ICC World Twenty20,,2007-09-20,T20,42,Junaid Siddique,Pakistan,{'wickets': 4},20,2007/08,international,Bangladesh,Pakistan,Pakistan,field,Newlands
+151,Cape Town,ICC World Twenty20,Semi Final,2007-09-22,T20,44,Umar Gul,Pakistan,{'wickets': 6},20,2007/08,international,New Zealand,Pakistan,New Zealand,bat,Newlands
+152,Johannesburg,ICC World Twenty20,Final,2007-09-24,T20,46,IK Pathan,India,{'runs': 5},20,2007/08,international,India,Pakistan,India,bat,New Wanderers Stadium
+153,Nairobi,Twenty20 Quadrangular (in Kenya),,2007-09-02,T20,18,Imran Nazir,Pakistan,{'runs': 30},20,2007/08,international,Bangladesh,Pakistan,Bangladesh,field,Gymkhana Club Ground
+154,Nairobi,Twenty20 Quadrangular (in Kenya),,2007-09-04,T20,19,Younis Khan,Pakistan,{'wickets': 8},20,2007/08,international,Kenya,Pakistan,Kenya,bat,Gymkhana Club Ground
+155,Karachi,,,2008-04-20,T20,55,Misbah-ul-Haq,Pakistan,{'runs': 102},20,2007/08,international,Pakistan,Bangladesh,Pakistan,bat,National Stadium
+156,London,ICC World Twenty20,,2009-06-07,T20,95,LJ Wright,England,{'runs': 48},20,2009,international,England,Pakistan,Pakistan,field,Kennington Oval
+157,London,ICC World Twenty20,,2009-06-09,T20,98,Kamran Akmal,Pakistan,{'runs': 82},20,2009,international,Netherlands,Pakistan,Pakistan,bat,Lord's
+158,London,ICC World Twenty20,,2009-06-12,T20,104,TM Dilshan,Sri Lanka,{'runs': 19},20,2009,international,Pakistan,Sri Lanka,Sri Lanka,bat,Lord's
+159,London,ICC World Twenty20,,2009-06-13,T20,107,Umar Gul,Pakistan,{'wickets': 6},20,2009,international,New Zealand,Pakistan,New Zealand,bat,Kennington Oval
+160,London,ICC World Twenty20,,2009-06-15,T20,110,Kamran Akmal,Pakistan,{'runs': 39},20,2009,international,Ireland,Pakistan,Pakistan,bat,Kennington Oval
+161,Nottingham,ICC World Twenty20,Semi Final,2009-06-18,T20,114,Shahid Afridi,Pakistan,{'runs': 7},20,2009,international,Pakistan,South Africa,Pakistan,bat,Trent Bridge
+162,London,ICC World Twenty20,Final,2009-06-21,T20,116,Shahid Afridi,Pakistan,{'wickets': 8},20,2009,international,Pakistan,Sri Lanka,Sri Lanka,bat,Lord's
+163,King City,T20 Canada,,2008-10-11,T20,72,Shoaib Malik,Pakistan,{'wickets': 3},20,2008/09,international,Pakistan,Sri Lanka,Pakistan,field,Maple Leaf North-West Ground
+164,King City,T20 Canada,Final,2008-10-13,T20,76,ST Jayasuriya,Sri Lanka,{'wickets': 5},20,2008/09,international,Pakistan,Sri Lanka,Sri Lanka,field,Maple Leaf North-West Ground
+165,,,,2009-05-07,T20,89,Shahid Afridi,Pakistan,{'wickets': 7},20,2009,international,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+166,Colombo,,,2009-08-12,T20,118,Shahid Afridi,Pakistan,{'runs': 52},20,2009,international,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium
+167,,,,2010-02-05,T20,134,SW Tait,Australia,{'runs': 2},20,2009/10,international,Australia,Pakistan,Australia,bat,Melbourne Cricket Ground
+168,St Lucia,ICC World Twenty20,,2010-05-01,T20,154,Salman Butt,Pakistan,{'runs': 21},20,2010,international,Bangladesh,Pakistan,Pakistan,bat,"Beausejour Stadium, Gros Islet"
+169,St Lucia,ICC World Twenty20,,2010-05-02,T20,156,SR Watson,Australia,{'runs': 34},20,2010,international,Australia,Pakistan,Australia,bat,"Beausejour Stadium, Gros Islet"
+170,Barbados,ICC World Twenty20,,2010-05-06,T20,163,KP Pietersen,England,{'wickets': 6},20,2010,international,England,Pakistan,England,field,"Kensington Oval, Bridgetown"
+171,Barbados,ICC World Twenty20,,2010-05-08,T20,167,IG Butler,New Zealand,{'runs': 1},20,2010,international,New Zealand,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown"
+172,St Lucia,ICC World Twenty20,,2010-05-10,T20,171,Umar Akmal,Pakistan,{'runs': 11},20,2010,international,Pakistan,South Africa,Pakistan,bat,"Beausejour Stadium, Gros Islet"
+173,St Lucia,ICC World Twenty20,Semi Final,2010-05-14,T20,176,MEK Hussey,Australia,{'wickets': 3},20,2010,international,Australia,Pakistan,Australia,field,"Beausejour Stadium, Gros Islet"
+174,Birmingham,MCC Spirit of Cricket T20I Series,,2010-07-05,T20,184,Umar Akmal,Pakistan,{'runs': 23},20,2010,international,Australia,Pakistan,Pakistan,bat,Edgbaston
+175,Birmingham,MCC Spirit of Cricket T20I Series,,2010-07-06,T20,185,Mohammad Amir,Pakistan,{'runs': 11},20,2010,international,Australia,Pakistan,Pakistan,bat,Edgbaston
+176,Cardiff,Pakistan in England T20I Series,,2010-09-05,T20,186,MH Yardy,England,{'wickets': 5},20,2010,international,England,Pakistan,England,field,Sophia Gardens
+177,Cardiff,Pakistan in England T20I Series,,2010-09-07,T20,187,TT Bresnan,England,{'wickets': 6},20,2010,international,England,Pakistan,Pakistan,bat,Sophia Gardens
+178,,Pakistan v New Zealand T20I Series,,2009-11-12,T20,122,Imran Nazir,Pakistan,{'runs': 49},20,2009/10,international,New Zealand,Pakistan,New Zealand,field,Dubai International Cricket Stadium
+179,,Pakistan v New Zealand T20I Series,,2009-11-13,T20,123,Umar Akmal,Pakistan,{'runs': 7},20,2009/10,international,New Zealand,Pakistan,Pakistan,bat,Dubai International Cricket Stadium
+180,,Pakistan v England T20I Series,,2010-02-19,T20,144,EJG Morgan,England,{'wickets': 7},20,2009/10,international,England,Pakistan,Pakistan,bat,Dubai International Cricket Stadium
+181,,Pakistan v England T20I Series,,2010-02-20,T20,145,Abdul Razzaq,Pakistan,{'wickets': 4},20,2009/10,international,England,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+182,Abu Dhabi,Pakistan v South Africa T20I Series,,2010-10-27,T20,191,J Theron,South Africa,{'wickets': 6},20,2010/11,international,Pakistan,South Africa,Pakistan,bat,Sheikh Zayed Stadium
+183,Auckland,Pakistan in New Zealand T20I Series,,2010-12-26,T20,193,TG Southee,New Zealand,{'wickets': 5},20,2010/11,international,New Zealand,Pakistan,New Zealand,field,Eden Park
+184,Hamilton,Pakistan in New Zealand T20I Series,,2010-12-28,T20,194,NL McCullum,New Zealand,{'runs': 39},20,2010/11,international,New Zealand,Pakistan,Pakistan,field,Seddon Park
+185,Christchurch,Pakistan in New Zealand T20I Series,,2010-12-30,T20,195,Abdul Razzaq,Pakistan,{'runs': 103},20,2010/11,international,New Zealand,Pakistan,Pakistan,bat,AMI Stadium
+186,Abu Dhabi,Pakistan v South Africa T20I Series,,2010-10-26,T20,190,JP Duminy,South Africa,{'wickets': 6},20,2010/11,international,Pakistan,South Africa,Pakistan,bat,Sheikh Zayed Stadium
+187,St Lucia,,,2011-04-21,T20,199,D Bishoo,West Indies,{'runs': 7},20,2011,international,West Indies,Pakistan,West Indies,bat,"Beausejour Stadium, Gros Islet"
+188,,Pakistan in Zimbabwe T20I Series,,2011-09-16,T20,205,Mohammad Hafeez,Pakistan,{'runs': 85},20,2011,international,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club
+189,,Pakistan in Zimbabwe T20I Series,,2011-09-18,T20,206,Mohammad Hafeez,Pakistan,{'runs': 5},20,2011,international,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club
+190,Abu Dhabi,,,2011-11-25,T20,215,Aizaz Cheema,Pakistan,{'wickets': 5},20,2011/12,international,Pakistan,Sri Lanka,Sri Lanka,bat,Sheikh Zayed Stadium
+191,,Pakistan v England T20I Series,,2012-02-23,T20,226,Umar Gul,Pakistan,{'runs': 8},20,2011/12,international,England,Pakistan,England,field,Dubai International Cricket Stadium
+192,,Pakistan v England T20I Series,,2012-02-25,T20,228,JM Bairstow,England,{'runs': 38},20,2011/12,international,England,Pakistan,England,bat,Dubai International Cricket Stadium
+193,Abu Dhabi,Pakistan v England T20I Series,,2012-02-27,T20,229,KP Pietersen,England,{'runs': 5},20,2011/12,international,England,Pakistan,England,bat,Sheikh Zayed Stadium
+194,,ICC World Twenty20,,2012-09-23,T20,271,Nasir Jamshed,Pakistan,{'runs': 13},20,2012/13,international,New Zealand,Pakistan,Pakistan,bat,Pallekele International Cricket Stadium
+195,,ICC World Twenty20,,2012-09-25,T20,274,Imran Nazir,Pakistan,{'wickets': 8},20,2012/13,international,Bangladesh,Pakistan,Bangladesh,bat,Pallekele International Cricket Stadium
+196,Colombo,ICC World Twenty20,,2012-09-28,T20,277,Umar Gul,Pakistan,{'wickets': 2},20,2012/13,international,Pakistan,South Africa,South Africa,bat,R Premadasa Stadium
+197,Colombo,ICC World Twenty20,,2012-09-30,T20,282,V Kohli,India,{'wickets': 8},20,2012/13,international,India,Pakistan,Pakistan,bat,R Premadasa Stadium
+198,Colombo,ICC World Twenty20,,2012-10-02,T20,285,Raza Hasan,Pakistan,{'runs': 32},20,2012/13,international,Australia,Pakistan,Australia,field,R Premadasa Stadium
+199,Colombo,ICC World Twenty20,Semi Final,2012-10-04,T20,287,DPMD Jayawardene,Sri Lanka,{'runs': 16},20,2012/13,international,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium
+200,Mirpur,,,2011-11-29,T20,216,Mohammad Hafeez,Pakistan,{'runs': 50},20,2011/12,international,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium
+201,Hambantota,Pakistan in Sri Lanka T20I Series,,2012-06-01,T20,244,NLTC Perera,Sri Lanka,{'runs': 37},20,2012,international,Sri Lanka,Pakistan,Sri Lanka,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+202,Hambantota,Pakistan in Sri Lanka T20I Series,,2012-06-03,T20,245,Shahid Afridi,Pakistan,{'runs': 23},20,2012,international,Sri Lanka,Pakistan,Pakistan,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+203,Centurion,Pakistan in South Africa T20I Series,,2013-03-03,T20,306,Mohammad Hafeez,Pakistan,{'runs': 95},20,2012/13,international,South Africa,Pakistan,Pakistan,bat,SuperSport Park
+204,,Pakistan v Australia T20I Series,,2012-09-05,T20,256,Mohammad Hafeez,Pakistan,{'wickets': 7},20,2012,international,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+205,,Pakistan v Australia T20I Series,,2012-09-07,T20,257,Saeed Ajmal,no result,no result,20,2012,international,Australia,Pakistan,Pakistan,bat,Dubai International Cricket Stadium
+206,,Pakistan v Australia T20I Series,,2012-09-10,T20,259,DA Warner,Australia,{'runs': 94},20,2012,international,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+207,Bangalore,Pakistan in India T20I Series,,2012-12-25,T20,296,Mohammad Hafeez,Pakistan,{'wickets': 5},20,2012/13,international,India,Pakistan,Pakistan,field,M Chinnaswamy Stadium
+208,Ahmedabad,Pakistan in India T20I Series,,2012-12-28,T20,298,Yuvraj Singh,India,{'runs': 11},20,2012/13,international,India,Pakistan,Pakistan,field,"Sardar Patel Stadium, Motera"
+209,St Vincent,Pakistan in West Indies T20I Series,,2013-07-27,T20,321,Shahid Afridi,Pakistan,{'wickets': 2},20,2013,international,West Indies,Pakistan,West Indies,bat,"Arnos Vale Ground, Kingstown"
+210,St Vincent,Pakistan in West Indies T20I Series,,2013-07-28,T20,322,Umar Akmal,Pakistan,{'runs': 11},20,2013,international,West Indies,Pakistan,Pakistan,bat,"Arnos Vale Ground, Kingstown"
+211,,Pakistan v South Africa T20I Series,,2013-11-13,T20,334,DW Steyn,South Africa,{'wickets': 9},20,2013/14,international,Pakistan,South Africa,Pakistan,bat,Dubai International Cricket Stadium
+212,,Pakistan v South Africa T20I Series,,2013-11-15,T20,336,F du Plessis,South Africa,{'runs': 6},20,2013/14,international,Pakistan,South Africa,South Africa,bat,Dubai International Cricket Stadium
+213,,Pakistan v Sri Lanka T20I Series,,2013-12-11,T20,350,Shahid Afridi,Pakistan,{'wickets': 3},20,2013/14,international,Pakistan,Sri Lanka,Pakistan,field,Dubai International Cricket Stadium
+214,,Pakistan v Sri Lanka T20I Series,,2013-12-13,T20,351,MDKJ Perera,Sri Lanka,{'runs': 24},20,2013/14,international,Pakistan,Sri Lanka,Pakistan,field,Dubai International Cricket Stadium
+215,,Pakistan in Zimbabwe T20I Series,,2013-08-23,T20,326,Ahmed Shehzad,Pakistan,{'runs': 25},20,2013,international,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club
+216,,Pakistan in Zimbabwe T20I Series,,2013-08-24,T20,327,Ahmed Shehzad,Pakistan,{'runs': 19},20,2013,international,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club
+217,Mirpur,World T20,,2014-03-21,T20,378,A Mishra,India,{'wickets': 7},20,2013/14,international,India,Pakistan,India,field,Shere Bangla National Stadium
+218,Mirpur,World T20,,2014-03-23,T20,381,Umar Akmal,Pakistan,{'runs': 16},20,2013/14,international,Australia,Pakistan,Australia,field,Shere Bangla National Stadium
+219,Mirpur,World T20,,2014-03-30,T20,392,Ahmed Shehzad,Pakistan,{'runs': 50},20,2013/14,international,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium
+220,Mirpur,World T20,,2014-04-01,T20,397,DJ Bravo,West Indies,{'runs': 84},20,2013/14,international,Pakistan,West Indies,West Indies,bat,Shere Bangla National Stadium
+221,Johannesburg,Pakistan in South Africa T20I Series,,2013-11-20,T20,340,Q de Kock,South Africa,{'runs': 4},20,2013/14,international,South Africa,Pakistan,Pakistan,field,New Wanderers Stadium
+222,Cape Town,Pakistan in South Africa T20I Series,,2013-11-22,T20,343,Mohammad Hafeez,Pakistan,{'runs': 6},20,2013/14,international,South Africa,Pakistan,Pakistan,bat,Newlands
+223,,,,2014-10-05,T20,406,GJ Maxwell,Australia,{'wickets': 6},20,2014/15,international,Australia,Pakistan,Pakistan,bat,Dubai International Cricket Stadium
+224,,Pakistan v New Zealand T20I Series,,2014-12-04,T20,411,Sarfraz Ahmed,Pakistan,{'wickets': 7},20,2014/15,international,New Zealand,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+225,,Pakistan v New Zealand T20I Series,,2014-12-05,T20,412,AP Devcich,New Zealand,{'runs': 17},20,2014/15,international,New Zealand,Pakistan,Pakistan,field,Dubai International Cricket Stadium
+226,Mirpur,,,2015-04-24,T20,416,Sabbir Rahman,Bangladesh,{'wickets': 7},20,2015,international,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium
+227,Colombo,Pakistan in Sri Lanka T20I Series,,2015-07-30,T20,448,Sohail Tanvir,Pakistan,{'runs': 29},20,2015,international,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium
+228,Colombo,Pakistan in Sri Lanka T20I Series,,2015-08-01,T20,449,Anwar Ali,Pakistan,{'wickets': 1},20,2015,international,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium
+229,Lahore,Zimbabwe in Pakistan T20I Series,,2015-05-22,T20,417,Mukhtar Ahmed,Pakistan,{'wickets': 5},20,2015,international,Pakistan,Zimbabwe,Zimbabwe,bat,Gaddafi Stadium
+230,Lahore,Zimbabwe in Pakistan T20I Series,,2015-05-24,T20,418,Mukhtar Ahmed,Pakistan,{'wickets': 2},20,2015,international,Pakistan,Zimbabwe,Zimbabwe,bat,Gaddafi Stadium
+231,,Pakistan v England T20I Series,,2015-11-26,T20,468,SW Billings,England,{'runs': 14},20,2015/16,international,England,Pakistan,England,bat,Dubai International Cricket Stadium
+232,,Pakistan v England T20I Series,,2015-11-27,T20,469,LE Plunkett,England,{'runs': 3},20,2015/16,international,England,Pakistan,England,bat,Dubai International Cricket Stadium
+233,,Pakistan v England T20I Series,,2015-11-30,T20,473,Shoaib Malik,no result,no result,20,2015/16,international,England,Pakistan,England,bat,Sharjah Cricket Stadium
+234,Manchester,,,2016-09-07,T20,566,Wahab Riaz,Pakistan,{'wickets': 9},20,2016,international,England,Pakistan,England,bat,Old Trafford
+235,Auckland,Pakistan in New Zealand T20I Series,,2016-01-15,T20,478,Shahid Afridi,Pakistan,{'runs': 16},20,2015/16,international,New Zealand,Pakistan,New Zealand,field,Eden Park
+236,Hamilton,Pakistan in New Zealand T20I Series,,2016-01-17,T20,480,MJ Guptill,New Zealand,{'wickets': 10},20,2015/16,international,New Zealand,Pakistan,Pakistan,bat,Seddon Park
+237,Wellington,Pakistan in New Zealand T20I Series,,2016-01-22,T20,483,CJ Anderson,New Zealand,{'runs': 95},20,2015/16,international,New Zealand,Pakistan,Pakistan,field,Westpac Stadium
+238,,Pakistan in Zimbabwe T20I Series,,2015-09-27,T20,454,Imad Wasim,Pakistan,{'runs': 13},20,2015/16,international,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club
+239,,Pakistan in Zimbabwe T20I Series,,2015-09-29,T20,455,Umar Akmal,Pakistan,{'runs': 15},20,2015/16,international,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club
+240,Kolkata,World T20,Super 10,2016-03-16,T20,536,Shahid Afridi,Pakistan,{'runs': 55},20,2015/16,international,Bangladesh,Pakistan,Pakistan,bat,Eden Gardens
+241,Kolkata,World T20,Super 10,2016-03-19,T20,541,V Kohli,India,{'wickets': 6},20,2015/16,international,India,Pakistan,India,field,Eden Gardens
+242,Chandigarh,World T20,Super 10,2016-03-22,T20,545,MJ Guptill,New Zealand,{'runs': 22},20,2015/16,international,New Zealand,Pakistan,New Zealand,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+243,Chandigarh,World T20,Super 10,2016-03-25,T20,548,JP Faulkner,Australia,{'runs': 21},20,2015/16,international,Australia,Pakistan,Australia,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+244,Mirpur,Asia Cup,,2016-02-27,T20,512,V Kohli,India,{'wickets': 5},20,2015/16,international,India,Pakistan,India,field,Shere Bangla National Stadium
+245,Mirpur,Asia Cup,,2016-02-29,T20,514,Shoaib Malik,Pakistan,{'wickets': 7},20,2015/16,international,Pakistan,United Arab Emirates,United Arab Emirates,bat,Shere Bangla National Stadium
+246,Mirpur,Asia Cup,,2016-03-02,T20,516,Soumya Sarkar,Bangladesh,{'wickets': 5},20,2015/16,international,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium
+247,Mirpur,Asia Cup,,2016-03-04,T20,518,Umar Akmal,Pakistan,{'wickets': 6},20,2015/16,international,Pakistan,Sri Lanka,Pakistan,field,Shere Bangla National Stadium
