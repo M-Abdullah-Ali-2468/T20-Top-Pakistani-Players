@@ -63,8 +63,15 @@ pip install jupyter python
 
 ---
 
+Here’s the updated version with embedded images instead of plain links:  
+
+---
+
 ## **📊 Dashboard Preview**  
 
-### **🏏 Batsman Performance Dashboard**    
+### **🏏 Batsman Performance Dashboard**  
+![Batsman Dashboard](https://github.com/M-Abdullah-Ali-2468/T20-Top-Pakistani-Players/blob/main/Top%20Batters.PNG)  
 
 ### **🏏 Bowler Performance Dashboard**  
+![Bowler Dashboard](https://github.com/M-Abdullah-Ali-2468/T20-Top-Pakistani-Players/blob/main/Top%20Bowlers.PNG)  
+
